@@ -3,9 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "fa6ff060fd2c7e921bbf4dca2a381711",
+  "assets/AssetManifest.json": "3868397622c1702d19fea519ba1f2a77",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"assets/lib/app/assets/icons/facebook.png": "a0c50792032fc6555c9e1dc26b41cc24",
+"assets/lib/app/assets/icons/instagram.png": "3f6e9ba20aed28426650cf3015901ac7",
+"assets/lib/app/assets/icons/phone.png": "78307defd658d8d7653a841957e8ef18",
+"assets/lib/app/assets/icons/whatsapp.png": "9c0236bff5f4de3721aa5b1452dc7de0",
+"assets/lib/app/assets/icons/youtube.png": "6b1d6da5657c30783e1c38a1273db5cb",
 "assets/lib/app/assets/images/arrowdown.png": "25d9c4552f731735a6eb9fca2612f891",
 "assets/lib/app/assets/images/clients/jdclub.png": "09264b13328a000a9f835fba70a0c3fc",
 "assets/lib/app/assets/images/clients/mercadaodopovo.png": "da3de2b34703e742eb4b704cb5119af7",
@@ -17,16 +22,13 @@ const RESOURCES = {
 "assets/lib/app/assets/images/services.jpg": "3478fa897549445e890e15f91cd5884f",
 "assets/lib/app/assets/images/supermarket.jpg": "28b86020aeb3070282641d910299543a",
 "assets/lib/app/assets/lottie/animation.json": "457ddc944e1be87796b0d60acd82755a",
-"assets/lib/app/assets/lottie/industry.json": "0e80ced8e1b969eec41d968c2c60b605",
-"assets/lib/app/assets/lottie/services.json": "73b1e197fafe58531b7cee082294ae30",
-"assets/lib/app/assets/lottie/supermarket.json": "c791107fbbb1f1addb0d6fc7fd4aedf2",
 "assets/NOTICES": "2aec38b5dfef63023848e01885677d48",
 "favicon.ico": "67f999b9f2b54533d03a0b2ece1036df",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "31ff382504227f03dd5027f2bbb33fe6",
-"/": "31ff382504227f03dd5027f2bbb33fe6",
-"main.dart.js": "581a70b5720da2468db7b7512dd5c058",
+"index.html": "7796de79f940b7b7409317d131be1871",
+"/": "7796de79f940b7b7409317d131be1871",
+"main.dart.js": "7c73d2466ed50ecd998b6d8be686d0da",
 "manifest.json": "a352cbff33963ad6f7799517ef7fe7ad",
 "version.json": "67d4394e10956d1bd0cbd6dcbfb99398"
 };
